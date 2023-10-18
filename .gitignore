@@ -1,1 +1,5 @@
-/venv
+venv/
+.ipynb_checkpoints/
+cifar-10-batches-py/
+CI_hw1.zip
+cifar-10-python.tar.gz
